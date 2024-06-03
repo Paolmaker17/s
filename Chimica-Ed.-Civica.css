@@ -87,7 +87,7 @@
   }
 
 body {
-  background-image: url(img/BG.jpeg);
+  background-image: "img/BG.jpeg";
   background-repeat: no-repeat;
   background-attachment: fixed; 
   background-size: cover;
